@@ -17,7 +17,7 @@ const DATA = {
   name: "Yash Purohit",
   email: "yash.purohit2610@gmail.com",
   taglines: ["Building AI + automation products","RAG systems that ship to prod","Multi-agent frameworks at scale","Writing on tech, systems & mindset"],
-  social: { github: "https://github.com/yashpurohit2610", linkedin: "https://linkedin.com/in/yash-purohit" },
+  social: { github: "https://github.com/Yashp-5", linkedin: "https://www.linkedin.com/in/yash-purohit-3703261b8/" },
   about: [
     "I'm an Associate AI Developer at Medtronic Engineering and Innovation Center, building RAG systems, LLM-powered tools, and multi-agent frameworks that actually ship to production.",
     "Finishing my Integrated M.Tech in Software Engineering at VIT Vellore (8.48 CGPA). My work sits at the intersection of AI engineering, automation, and product thinking.",
